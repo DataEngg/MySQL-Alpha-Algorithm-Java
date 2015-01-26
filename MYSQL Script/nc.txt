@@ -1,0 +1,222 @@
+In Call,Unmatched,Cancelled,Awaiting Assignment
+Awaiting Assignment,Cancelled,Unmatched,In Call
+In Call,Cancelled,Awaiting Assignment
+Awaiting Assignment,Cancelled,In Call
+Unmatched,Closed,Cancelled,Assigned
+Assigned,Cancelled,Closed,Unmatched
+Closed,Wait - User,Cancelled
+Cancelled,Wait - User,Closed
+In Call,Unmatched,Closed,Cancelled
+Cancelled,Closed,Unmatched,In Call
+In Call,Cancelled,Wait - Vendor
+Wait - Vendor,Cancelled,In Call
+Closed,Wait - Customer
+Wait - Customer,Closed
+In Call,Unmatched,Assigned
+Assigned,Unmatched,In Call
+Unmatched,Awaiting Assignment
+Awaiting Assignment,Unmatched
+In Call,Closed,Cancelled,Assigned
+Assigned,Cancelled,Closed,In Call
+In Call,Unmatched,Wait - Implementation
+Wait - Implementation,Unmatched,In Call
+Closed,Cancelled,Assigned
+Assigned,Cancelled,Closed
+In Call,Closed,Wait - Implementation
+Wait - Implementation,Closed,In Call
+In Call,Unmatched,Closed
+Closed,Unmatched,In Call
+Closed,Cancelled,Wait - Implementation
+Wait - Implementation,Cancelled,Closed
+In Call,Unmatched,Cancelled,Wait - Vendor
+Wait - Vendor,Cancelled,Unmatched,In Call
+In Call,Unmatched,Closed,Cancelled,Wait - Implementation
+Wait - Implementation,Cancelled,Closed,Unmatched,In Call
+In Call,Unmatched,Closed,Assigned
+Assigned,Closed,Unmatched,In Call
+Unmatched,Wait - User,Cancelled
+Cancelled,Wait - User,Unmatched
+Unmatched,Cancelled,Wait - Vendor
+Wait - Vendor,Cancelled,Unmatched
+Unmatched,Closed,Cancelled,Wait - Customer
+Wait - Customer,Cancelled,Closed,Unmatched
+Unmatched,Cancelled,Assigned
+Assigned,Cancelled,Unmatched
+In Call,Closed,Wait
+Wait,Closed,In Call
+Cancelled,Wait - Vendor
+Wait - Vendor,Cancelled
+In Call,Closed,Assigned
+Assigned,Closed,In Call
+Cancelled,Wait - Implementation
+Wait - Implementation,Cancelled
+Closed,Wait - Vendor
+Wait - Vendor,Closed
+Cancelled,Assigned
+Assigned,Cancelled
+Unmatched,Closed,Wait - Vendor
+Wait - Vendor,Closed,Unmatched
+Unmatched,Wait - Implementation
+Wait - Implementation,Unmatched
+In Call,Cancelled,Wait - Implementation
+Wait - Implementation,Cancelled,In Call
+In Call,Unmatched,Closed,Cancelled,Wait - Customer
+Wait - Customer,Cancelled,Closed,Unmatched,In Call
+In Call,Unmatched,Closed,Wait - User,Cancelled
+Cancelled,Wait - User,Closed,Unmatched,In Call
+In Call,Unmatched,Wait - Customer
+Wait - Customer,Unmatched,In Call
+Unmatched,Wait
+Wait,Unmatched
+In Call,Unmatched,Wait
+Wait,Unmatched,In Call
+In Call,Cancelled,Wait - Customer
+Wait - Customer,Cancelled,In Call
+In Call,Unmatched,Cancelled,Assigned
+Assigned,Cancelled,Unmatched,In Call
+In Call,Closed,Cancelled,Wait - Customer
+Wait - Customer,Cancelled,Closed,In Call
+Unmatched,Closed,Cancelled
+Cancelled,Closed,Unmatched
+In Call,Unmatched,Wait - User,Cancelled
+Cancelled,Wait - User,Unmatched,In Call
+In Call,Unmatched,Wait - Vendor
+Wait - Vendor,Unmatched,In Call
+Resolved,Cancelled
+Cancelled,Resolved
+In Call,Wait - Implementation
+Wait - Implementation,In Call
+Closed,Wait - User
+Wait - User,Closed
+In Call,Assigned
+Assigned,In Call
+Unmatched,Assigned
+Assigned,Unmatched
+Unmatched,Wait - User,Closed
+Closed,Wait - User,Unmatched
+Unmatched,Closed,Cancelled,Wait - Implementation
+Wait - Implementation,Cancelled,Closed,Unmatched
+In Call,Unmatched,Closed,Wait
+Wait,Closed,Unmatched,In Call
+Unmatched,Cancelled
+Cancelled,Unmatched
+Unmatched,Closed,Cancelled,Wait - Vendor
+Wait - Vendor,Cancelled,Closed,Unmatched
+Closed,Wait,Cancelled
+Cancelled,Wait,Closed
+Closed,Cancelled,Wait - Vendor
+Wait - Vendor,Cancelled,Closed
+In Call,Unmatched,Closed,Wait - User
+Wait - User,Closed,Unmatched,In Call
+In Call,Closed,Cancelled
+Cancelled,Closed,In Call
+Unmatched,Closed,Wait - Implementation
+Wait - Implementation,Closed,Unmatched
+Unmatched,Wait - User
+Wait - User,Unmatched
+In Call,Unmatched,Closed,Cancelled,Assigned
+Assigned,Cancelled,Closed,Unmatched,In Call
+In Call,Cancelled
+Cancelled,In Call
+Unmatched,Closed,Wait
+Wait,Closed,Unmatched
+In Call,Wait - User,Closed,Cancelled
+Cancelled,Closed,Wait - User,In Call
+In Call,Closed
+Closed,In Call
+Unmatched,Closed
+Closed,Unmatched
+In Call,Resolved
+Resolved,In Call
+Unmatched,Wait,Cancelled
+Cancelled,Wait,Unmatched
+In Call,Unmatched,Wait - User
+Wait - User,Unmatched,In Call
+Cancelled,Wait - Customer
+Wait - Customer,Cancelled
+In Call,Unmatched,Awaiting Assignment
+Awaiting Assignment,Unmatched,In Call
+In Call,Cancelled,Assigned
+Assigned,Cancelled,In Call
+In Call,Resolved,Cancelled
+Cancelled,Resolved,In Call
+In Call,Wait,Cancelled
+Cancelled,Wait,In Call
+In Call,Unmatched,Cancelled,Wait - Customer
+Wait - Customer,Cancelled,Unmatched,In Call
+Unmatched,Closed,Cancelled,Wait
+Wait,Cancelled,Closed,Unmatched
+In Call,Unmatched,Closed,Wait,Cancelled
+Cancelled,Wait,Closed,Unmatched,In Call
+In Call,Unmatched
+Unmatched,In Call
+Unmatched,Cancelled,Wait - Customer
+Wait - Customer,Cancelled,Unmatched
+In Call,Wait - Vendor
+Wait - Vendor,In Call
+Wait - User,Cancelled
+Cancelled,Wait - User
+In Call,Unmatched,Cancelled,Wait - Implementation
+Wait - Implementation,Cancelled,Unmatched,In Call
+In Call,Unmatched,Cancelled,Wait
+Wait,Cancelled,Unmatched,In Call
+Closed,Cancelled,Wait - Customer
+Wait - Customer,Cancelled,Closed
+In Call,Unmatched,Closed,Wait - Vendor
+Wait - Vendor,Closed,Unmatched,In Call
+In Call,Closed,Cancelled,Wait - Vendor
+Wait - Vendor,Cancelled,Closed,In Call
+Unmatched,Wait - Customer
+Wait - Customer,Unmatched
+In Call,Closed,Wait - Vendor
+Wait - Vendor,Closed,In Call
+In Call,Wait - User,Closed
+Closed,Wait - User,In Call
+In Call,Wait - User,Cancelled
+Cancelled,Wait - User,In Call
+Closed,Cancelled
+Cancelled,Closed
+Unmatched,Wait - User,Closed,Cancelled
+Cancelled,Closed,Wait - User,Unmatched
+Closed,Wait
+Wait,Closed
+Cancelled,Wait
+Wait,Cancelled
+In Call,Unmatched,Closed,Wait - Customer
+Wait - Customer,Closed,Unmatched,In Call
+Unmatched,Closed,Assigned
+Assigned,Closed,Unmatched
+Unmatched,Wait - Vendor
+Wait - Vendor,Unmatched
+In Call,Closed,Cancelled,Wait
+Wait,Cancelled,Closed,In Call
+In Call,Wait - Customer
+Wait - Customer,In Call
+In Call,Unmatched,Cancelled
+Cancelled,Unmatched,In Call
+In Call,Wait
+Wait,In Call
+Cancelled,Awaiting Assignment
+Awaiting Assignment,Cancelled
+Unmatched,Closed,Wait - Customer
+Wait - Customer,Closed,Unmatched
+Closed,Wait - Implementation
+Wait - Implementation,Closed
+Unmatched,Cancelled,Awaiting Assignment
+Awaiting Assignment,Cancelled,Unmatched
+Closed,Assigned
+Assigned,Closed
+Unmatched,Cancelled,Wait - Implementation
+Wait - Implementation,Cancelled,Unmatched
+In Call,Wait - User
+Wait - User,In Call
+In Call,Awaiting Assignment
+Awaiting Assignment,In Call
+In Call,Closed,Wait - Customer
+Wait - Customer,Closed,In Call
+In Call,Unmatched,Closed,Cancelled,Wait - Vendor
+Wait - Vendor,Cancelled,Closed,Unmatched,In Call
+In Call,Closed,Cancelled,Wait - Implementation
+Wait - Implementation,Cancelled,Closed,In Call
+In Call,Unmatched,Closed,Wait - Implementation
+Wait - Implementation,Closed,Unmatched,In Call
